@@ -4,6 +4,11 @@ A Frontend website using HTML, CSS, JavaScript Deployed on a live Server.
 * A Ecommerce Application which is having high CSS stylings and JavaScript
 * A website which is suitable for large screen, medium screen device and low screen device.
 * Applied JavaScript for low screen device headers
+* Deployed the code on webhosting server
+
+# Images
+
+![Uploading SaraEcom.JPG…]()
 
 # Features
 * about page
